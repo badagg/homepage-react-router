@@ -1,0 +1,33 @@
+{
+    "album": [{
+        "id": 0,
+        "image": "http://dummyimage.com/600x400/9279f2"
+    }, {
+        "id": 1,
+        "image": "http://dummyimage.com/600x400/82f279"
+    }, {
+        "id": 2,
+        "image": "http://dummyimage.com/600x400/f279a6"
+    }, {
+        "id": 3,
+        "image": "http://dummyimage.com/600x400/79c9f2"
+    }, {
+        "id": 4,
+        "image": "http://dummyimage.com/600x400/ecf279"
+    }, {
+        "id": 5,
+        "image": "http://dummyimage.com/600x400/d479f2"
+    }, {
+        "id": 6,
+        "image": "http://dummyimage.com/600x400/79f2b1"
+    }, {
+        "id": 7,
+        "image": "http://dummyimage.com/600x400/f28d79"
+    }, {
+        "id": 8,
+        "image": "http://dummyimage.com/600x400/7987f2"
+    }, {
+        "id": 9,
+        "image": "http://dummyimage.com/600x400/abf279"
+    }]
+}
